@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashivardhan</h1>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **shashivardhan201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
