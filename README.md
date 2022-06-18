@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashivardhan</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashiwerdun&show_icons=true&locale=en&layout=compact" alt="shashiwerdun" width="400" height="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiWerdun&langs_count=10&theme=onedark" alt="shashiwerdun" height="400"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,4 @@
  <a href="https://earthengine.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="gee" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwerdun&show_icons=true&locale=en" alt="shashiwerdun" height="200"/> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwerdun&show_icons=true&locale=en&theme=onedark" alt="shashiwerdun" height="200"/> </p>
