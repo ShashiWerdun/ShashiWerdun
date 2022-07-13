@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashivardhan</h1>
 
+<p align="center"><b>I'm currently working on</b> Causal Inference over Time Series data with Machine Learning</p>
+<p align="center"><b>I'm currently learning</b> Web Development with <a href="https://theodinproject.com">The Odin Project</a></p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiWerdun&langs_count=10&theme=onedark" alt="shashiwerdun" height="400"/>
 
 <h3 align="left">Connect with me:</h3>
