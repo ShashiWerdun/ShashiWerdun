@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/shashivardhan202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashivardhan202" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/werdun" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="werdun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashivardhan201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashivardhan201" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/werdun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="werdun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
